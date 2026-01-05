@@ -38,7 +38,7 @@ I am a passionate Software Engineering student (4th semester) at Universidad de 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mafe-patino-software">
+  <a href="https://www.linkedin.com/in/mafe-patino-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
